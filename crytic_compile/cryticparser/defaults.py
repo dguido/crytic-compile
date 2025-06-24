@@ -48,4 +48,5 @@ DEFAULTS_FLAG_IN_CONFIG = {
     "foundry_compile_all": False,
     "export_dir": "crytic-export",
     "compile_libraries": None,
+    "compile_autolink": False,
 }
